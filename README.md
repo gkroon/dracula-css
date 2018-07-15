@@ -1,14 +1,14 @@
-# Dracula for [i3](https://i3wm.org/)
+# Dracula for [CSS](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
 
-> A dark theme for [i3](https://i3wm.org/).
+> A dark theme for [CSS](https://www.w3.org/TR/2011/REC-CSS2-20110607/).
 
-![Screenshot](https://github.com/gkroon/dracula-i3/raw/master/dracula-i3.png)
+![Screenshot](https://github.com/gkroon/dracula-i3/raw/master/dracula-css.png)
 
 ## Install
 
-~~All instructions can be found at [draculatheme.com/i3](https://draculatheme.com/i3)~~
+~~All instructions can be found at [draculatheme.com/css](https://draculatheme.com/css)~~
 
-Append the colour palette to your existing i3 configuration files.
+Work-in-progress CSS theme for web pages. At the moment I only use this as a costum [Dark Mode](https://mybrowseraddon.com/dark-mode.html) theme, but this might provide the basis for a complete CSS theme. Please send me pull requests, or if you want to maintain [dracula-css](.) yourself, I'm willing to transfer ownership to someone with much more experience and free time.
 
 ## Team
 
