@@ -2,7 +2,7 @@
 
 > A dark theme for [CSS](https://www.w3.org/TR/2011/REC-CSS2-20110607/).
 
-![Screenshot](https://github.com/gkroon/dracula-i3/raw/master/dracula-css.png)
+![Screenshot](https://github.com/gkroon/dracula-css/raw/master/dracula-css.png)
 
 ## Install
 
@@ -12,7 +12,7 @@ Work-in-progress CSS theme for web pages. At the moment I only use this as a cos
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/gkroon/dracula-i3/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/gkroon/dracula-css/graphs/contributors).
 
 [![Guido Kroon](https://avatars0.githubusercontent.com/u/8877690?v=3&s=70)](https://github.com/gkroon) |
 --- |
