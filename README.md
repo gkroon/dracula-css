@@ -8,7 +8,7 @@
 
 ~~All instructions can be found at [draculatheme.com/css](https://draculatheme.com/css)~~
 
-Work-in-progress CSS theme for web pages. At the moment I only use this as a costum [Dark Mode](https://mybrowseraddon.com/dark-mode.html) theme, but this might provide the basis for a complete CSS theme. Please send me pull requests, or if you want to maintain [dracula-css](.) yourself, I'm willing to transfer ownership to someone with much more experience and free time.
+Work in progress CSS theme for web pages. At the moment I only use this as a costum [Dark Mode](https://mybrowseraddon.com/dark-mode.html) theme, but this might provide a basis for a complete CSS theme. Please send me pull requests, or if you want to maintain [dracula-css](.) yourself, I'm willing to transfer ownership to someone with much more experience and free time.
 
 ## Team
 
